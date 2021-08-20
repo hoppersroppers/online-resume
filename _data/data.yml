@@ -1,25 +1,27 @@
+This resume demonstrates what any student who completes our Computing Fundamentals course will be able to put on their resume!  
+
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Grace Murray
+  title: Job Hunting Hacker
   avatar:
     display: true
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
+  email: grace@gmail.com
+  phone: +1-111-2222-3333
   wechat:
   whatsapp:
   telegram:
-  website: example.com
+  website: hoppersroppers.org
   medium:
   linkedin:
   googlescholar:
   researchgate:
-  github: github
+  github: hoppersroppers
   gitlab:
   bitbucket:
-  twitter: twitter
+  twitter: hoppersroppers
   stackoverflow:
   quora:
   goodreads:
@@ -28,122 +30,104 @@ profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    + I have spent the last three months working on breaking into the cyber security world. Starting with the Ropper's courses, I have learned computing fundamentals and have begun working on my Comptia A+ cert.
+    + I compete in CTFs on the weekends and I have started teaching my friends and family about security and helping them with all their computer troubles.
+    + I look forward to finding a job where I can learn from experts and teach others, all while helping protect the digital world.
 
     ...
-
-experiences:
-  display: true
-  title: Experiences
-  items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
-      details: |
-        Experience in this company:
-        + First
-        + Second
-
-        ...
-
-projects:
-  display: true
-  title: Projects
-  intro: |
-    This is all the projects I'm involved in.
-
-  items:
-    - name: Foo
-      link: https://www.google.com
-      details: |
-        Project Foo's detail, you can write markdown format text.
-
-    - name: Bar
-      link:
-      details: |
-        Project Bar's detail, you can write markdown format text.
 
 skills:
   display: true
   title: Skills
   details: |
-    Here is my skills:
-    + First
-    + Second
+    I am constantly growing my skills:
+    + Virtual Machine Administration
+    + Linux System Administration
+    + Hardware
+    + Web Development
+    + Python Development
+    
 
     ...
-
+certificates:
+  display: true
+  title: Certificates
+  items:
+    - name: Computing Fundamentals
+      authority: Ropper's
+      time: 2021
+      link: https://badgr.com/issuers/5e9e3d04cc1df4104cef8bd9/badges/5eff756be870c1600e216937/overview
+      details: |
+        Earned by completing Ropper's Fundamentals course.
+    - name: Linux Fundamentals
+      authority: Ropper's
+      time: 2020
+      link: https://badgr.com/issuers/5e9e3d04cc1df4104cef8bd9/badges/5eff72e2e870c1600e2168b0/assertions
+      details: |
+        Certified to be dangerous around a command line
+    - name: Programming Fundamentals
+      authority: Ropper's
+      time: 2021
+      link: https://badgr.com/issuers/5e9e3d04cc1df4104cef8bd9/badges/5ffdc2afd144b544bdeed11d/overview
+      details: |
+        Certified to be dangerous with Python
+        
+        
   levels:
-    - name: Skill A
+    - name: Ropper's Security Course: 90%
       level: 90
-    - name: Skill B
-      level: 80
-    - name: Skill C
-      level: 70
+    - name: Professor Messer's A+ 220-1002 Training Course: 65%
+      level: 65
+
+projects:
+  display: true
+  title: Projects
+  intro: |
+    These are all the projects I'm involved in. 
+
+  items:
+    - name: My Personal Website
+      link: https://hoppersroppers.github.io
+      details: |
+        I built a personal website highlighting my knowledge of HTML, CSS, JS, and git. 
+
+    - name: Automated CTF Solver in Python
+      link: 
+      details: |
+        Python program which takes in a configuration file and automatically completes the Bandit Over the Wire CTF.
+
+experiences:
+  display: true
+  title: Work Experience
+  items:
+    - role: Alarm Clock Quality Assurance
+      time: 1914.03 - 1914.06
+      company: Silver Nanosecond Company
+      tag:
+      location: New York City
+      details: |
+        Reverse engineered competing alarm clocks and conducted quality assurance checks on our own.
+
+        ...
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Vassar College
+      time: 1924 - 1928
+      major: Mathematics and Physics
       degree: Bachelor
       details: |
-        Experience in this university:
-        + First
-        + Second
+        Graduated Phi Beta Kappa 
 
         ...
-
-certificates:
-  display: true
-  title: Certificates
-  items:
-    - name: Course Foo
-      authority: Coursera
-      time: 2020
-      link:
-      details: |
-        It's my Course Foo certificate by coursera.
-    - name: Course Bar
-      authority: Coursera
-      time: 2020
-      link: https://www.google.com
-      details: |
-
+        
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
-    This is all the books I wrote.
+    These are all the papers I have written.
 
   items:
     - title: Foo in Action
@@ -156,7 +140,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,10 +150,10 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
-      level: Native
     - idiom: English
-      level: Professional
+      level: Native
+    - idiom: Latin
+      level: Enough
 
 interests:
   display: true
@@ -177,12 +161,12 @@ interests:
   items:
     - item: Reading
       link:
-    - item: Cooking
+    - item: Debugging
       link:
 
 evaluation:
-  display: true
-  title: Self-evaluation
+  display: False
+  title: Anything Else You Want To Put
   details: |
     Here is my self evaluation.
     + First
