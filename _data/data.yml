@@ -1,8 +1,7 @@
-This resume demonstrates what any student who completes our Computing Fundamentals course will be able to put on their resume!  
-
 basic:
   name: Grace Murray
-  title: Job Hunting Hacker
+  title: Job Hunting Hacker: This resume demonstrates what any student who completes our Computing Fundamentals course will be able to put on their resume!  
+
   avatar:
     display: true
     path: profile.png
