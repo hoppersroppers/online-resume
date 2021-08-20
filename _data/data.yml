@@ -8,7 +8,7 @@ basic:
 
 contact:
   email: grace@gmail.com
-  phone: +1-111-2222-3333
+  phone: 
   wechat:
   whatsapp:
   telegram:
@@ -20,7 +20,7 @@ contact:
   github: hoppersroppers
   gitlab:
   bitbucket:
-  twitter: hoppersroppers
+  twitter: 
   stackoverflow:
   quora:
   goodreads:
@@ -29,11 +29,10 @@ profile:
   display: true
   title: Profile
   details: |
-    + I have spent the last three months working on breaking into the cyber security world. Starting with the Ropper's courses, I have learned computing fundamentals and have begun working on my Comptia A+ cert.
-    + I compete in CTFs on the weekends and I have started teaching my friends and family about security and helping them with all their computer troubles.
-    + I look forward to finding a job where I can learn from experts and teach others, all while helping protect the digital world.
+    I have spent the last three months working on breaking into the cyber security world. Starting with the Ropper's courses, I have learned computing fundamentals and have begun working on my Comptia A+ cert.
+    I compete in CTFs on the weekends and I have started teaching my friends and family about security and helping them with all their computer troubles.
+    I look forward to finding a job where I can learn from experts and teach others, all while helping protect the digital world.
 
-    ...
 
 skills:
   display: true
@@ -45,9 +44,7 @@ skills:
     + Hardware
     + Web Development
     + Python Development
-    
-
-    ...
+   
 certificates:
   display: true
   title: Certificates
@@ -107,7 +104,6 @@ experiences:
       details: |
         Reverse engineered competing alarm clocks and conducted quality assurance checks on our own.
 
-        ...
 
 education:
   display: true
@@ -120,7 +116,6 @@ education:
       details: |
         Graduated Phi Beta Kappa 
 
-        ...
         
 publications:
   display: false
@@ -167,7 +162,7 @@ evaluation:
     ...
 
 footer:
-  display: true
+  display: false
 
 close: >
   Sorry, my resume has been hidden.
