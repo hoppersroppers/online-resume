@@ -73,9 +73,9 @@ certificates:
         
         
   levels:
-    - name: Ropper's Security Course: 90%
+    - name: Ropper's Security Course- 90%
       level: 90
-    - name: Professor Messer's A+ 220-1002 Training Course: 65%
+    - name: Professor Messer's A+ 220-1002 Training Course- 65%
       level: 65
 
 projects:
@@ -137,13 +137,6 @@ publications:
       authors: Foo Bar
       conference: Foobar, 2019
       link:
-
-patents:
-  display: false
-  title: Patents
-  details: |
-    This is all my patents.
-    + 2020\. A patent name is here. CN123456, filed May 15, 2020, and issued July 20, 2020.
 
 languages:
   display: true
